@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="736px"
+    android:layout_height="174px"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/t1_s1_launcher_popup_bg"
+    android:paddingBottom="24px"
+    android:paddingHorizontal="18px" >
+
+    <TextView
+        android:id="@+id/id_popup_tv_message"
+        android:layout_width="wrap_content"
+        android:layout_height="41px"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55px"
+        android:textColor="@color/t1_s1_launcher_white"
+        android:textSize="36px" />
+
+</RelativeLayout>
